@@ -17,8 +17,12 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
+<<<<<<< HEAD
       <h2>This is dev branch</h2>
       <h2>This is Branch 1</h2>
+=======
+      <h2>This is bracnch 3</h2>
+>>>>>>> feda9360b1e88df6c8944f479b72c78bd4756b4a
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
