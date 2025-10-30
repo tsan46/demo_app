@@ -23,6 +23,7 @@ function App() {
 =======
       <h2>This is bracnch 3</h2>
 >>>>>>> feda9360b1e88df6c8944f479b72c78bd4756b4a
+      <h2>This is branch 4</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
